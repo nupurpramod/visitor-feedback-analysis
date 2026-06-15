@@ -10,9 +10,8 @@ date: 2026-06-15
 
 ## The Backstory
 
-During my internship, one of the things I worked on was analyzing visitor
-feedback from a large exhibition — ratings, recommendation responses, and
-open-ended comments from people who walked through the event.
+During my internship, I worked on a visitor feedback analysis project for a large exhibition — examining satisfaction ratings, recommendation likelihood, and open-ended visitor comments to understand how the event was perceived across different audience segments.
+As the original dataset is confidential, this article presents the same analytical approach applied to a synthetic dataset designed to reflect similar patterns and structure.
 
 The goal wasn't just "what's the average rating" (though that matters too). It
 was about figuring out *where* the experience was working, *where* it wasn't,
