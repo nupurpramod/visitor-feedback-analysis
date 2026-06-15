@@ -1,0 +1,801 @@
+visitor_id,age_group,zone_visited,discovery_source,satisfaction_rating,would_recommend,comment,sentiment,visit_date
+484de21b-36e1-42cb-bef3-eb11bab98a1e,36-50,Tech Innovations,Newspaper,5,1,"Great experience overall, well organized.",Positive,2025-12-18
+89d49162-ff82-42b4-a86d-0150b7ca25e4,50+,Heritage Crafts,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-02
+31b3f4a8-7dd8-4c34-9c0f-f6b1db8c044f,36-50,Heritage Crafts,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-14
+e42bd679-d276-44b3-8f8f-146192f5d8b3,Under 18,Heritage Crafts,Online Ads,4,1,Friendly staff and clean premises.,Positive,2025-12-19
+e6f75f60-d4d6-4b75-b642-59ae158a4cc8,50+,Heritage Crafts,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-02
+aaa88a44-9098-421d-a889-475c15198667,26-35,Kids Zone,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-19
+3c68a43c-3791-4fcb-8fe8-079499aa4d9e,18-25,Tech Innovations,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-07
+d3618268-9312-423b-bd81-cbf4fe42a96e,50+,Tech Innovations,College/Work,2,1,Photography section felt empty and poorly curated.,Negative,2025-12-20
+41f0de66-bd2e-4b94-86b3-2a4edf635401,50+,Modern Art,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-19
+0d7d760a-9773-4612-b855-d489e8e37573,26-35,Food & Culture,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+81f19e83-150d-4f72-8e88-87858551154c,26-35,Heritage Crafts,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-15
+07e56f22-f794-483e-9975-b2a8914325ce,Under 18,Tech Innovations,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-11
+088c03b1-ec29-46ed-8b8a-c70f20f3a300,36-50,Modern Art,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-18
+58cb3412-c378-4e93-9063-48fc42784939,26-35,Kids Zone,Newspaper,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-19
+e6869f98-0d6a-4c09-bfc1-644818eb00df,Under 18,Food & Culture,Online Ads,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+c5581b04-2ebf-468d-89c5-be51c08d7b07,26-35,Heritage Crafts,Newspaper,3,0,"Some zones were good, others not so much.",Neutral,2025-12-15
+f904256e-a682-459b-a0e5-1c6f963cdfc0,36-50,Tech Innovations,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+d0e47e3f-9254-4600-ad39-0ec9c7ba5eeb,50+,Tech Innovations,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+6b51770d-7a3d-45ea-9662-f561c0af8343,18-25,Modern Art,Friends/Family,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+8f9ec1db-2a47-4981-8218-306fc3fb096c,36-50,Heritage Crafts,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-05
+ce44910d-1fe4-4a86-8777-05cdda614718,26-35,Food & Culture,College/Work,5,0,Friendly staff and clean premises.,Positive,2025-12-13
+2fa3bcdd-a081-4fa9-a2c3-c3ad28e8fa81,Under 18,Modern Art,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-08
+905e0b53-1446-42f2-b0e9-8ad00d6df755,50+,Heritage Crafts,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+dbaa04cd-9526-43bd-a37e-c24a5bc48a35,26-35,Food & Culture,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-05
+a12d8ec2-1efd-42e2-91ba-e78e8c04bfa0,50+,Photography,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+bc9e8865-9d39-4842-bb86-b7931b516bec,36-50,Photography,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-16
+d8cd324f-1d17-479e-bda7-1c69070788bc,Under 18,Photography,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-15
+0ce37ffc-2fc1-412c-a32f-4c75b28eb49a,26-35,Modern Art,Newspaper,2,1,Photography section felt empty and poorly curated.,Negative,2025-12-19
+06d656e4-b0a1-4356-9334-f8dfb9d14447,Under 18,Modern Art,Online Ads,5,1,Friendly staff and clean premises.,Positive,2025-12-03
+808d20d4-a14f-4abe-bf73-27e3e012c46f,36-50,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-12
+95d5afd5-9ad1-4a8f-a535-5bc65a7bc9e5,36-50,Kids Zone,Social Media,3,0,"Average experience, could be better.",Neutral,2025-12-15
+d4f73609-1472-40e8-ba69-ce406324daca,26-35,Food & Culture,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+b7df1f3f-0ae8-4537-b4d8-25274ba15137,36-50,Photography,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-01
+f4120cd8-5cbc-4415-b9b8-b8664be3bdf8,26-35,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-01
+52bb6e3a-a331-4859-97ef-7d67ca861ff8,Under 18,Kids Zone,Newspaper,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-12
+708b2778-74a6-4803-a8ec-35d8fb146b7e,18-25,Modern Art,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-11
+6e65ed42-f396-41dd-87d2-174409cad3a6,50+,Photography,College/Work,3,0,"It was okay, nothing special.",Neutral,2025-12-07
+d0824cef-1529-4551-9332-bd80363a0c0a,18-25,Modern Art,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-01
+e41d4d61-f668-4e31-8a97-f78753e46d68,36-50,Heritage Crafts,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+38e7d225-07f5-4f4f-a124-b66d29f07ece,26-35,Food & Culture,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-08
+95470bff-aee0-4762-b861-88e1d5070517,36-50,Heritage Crafts,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-20
+9b4a064a-8351-4b99-b944-4e11b56761c7,36-50,Kids Zone,Online Ads,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+f7e34349-2fdd-4e72-8df3-6ff40d98e598,Under 18,Heritage Crafts,Online Ads,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-07
+392fb24f-3c6b-44ba-961a-020ea8da900b,36-50,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-13
+9bc60e24-3c11-4453-b4a9-91aaa0033cd6,Under 18,Food & Culture,College/Work,2,1,Long queues at food stalls.,Negative,2025-12-05
+fd7b3aa3-72a9-466c-97af-32a1aa43c9f8,50+,Heritage Crafts,Online Ads,2,1,"Too crowded on weekends, hard to move around.",Negative,2025-12-05
+83df2a05-a798-46d8-988a-8dbb84d5a542,36-50,Kids Zone,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-18
+51001d83-bebc-42a0-a76f-e5564db2394d,Under 18,Kids Zone,Social Media,5,0,"Great experience overall, well organized.",Positive,2025-12-21
+4d291f8b-ee5a-4d05-940d-fa8ad09c1952,18-25,Heritage Crafts,Friends/Family,4,0,Friendly staff and clean premises.,Positive,2025-12-07
+a1307f1a-eca4-4882-ac84-57cf54ea09ae,18-25,Heritage Crafts,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-19
+09e7db87-729f-451b-a68e-7b3dd8efbe95,50+,Tech Innovations,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+932cee95-ba75-4062-8090-48a1b511b996,50+,Food & Culture,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-17
+296d2a79-62c5-4bd7-be67-9a9b38c86c50,18-25,Modern Art,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+c7aaa338-e21c-42a0-9a77-ac4fa9590dce,Under 18,Modern Art,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-05
+51358ccc-df83-46bf-b095-38571351c9b1,Under 18,Food & Culture,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-17
+fcadc278-7ee8-47c6-b8aa-0ab1273c92b2,36-50,Kids Zone,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-18
+4c1c1476-db87-4514-9749-bd0dd0561319,18-25,Heritage Crafts,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-17
+3be343ca-34bd-4213-8ba6-e47dec3936f0,Under 18,Food & Culture,College/Work,4,0,Friendly staff and clean premises.,Positive,2025-12-15
+4d054098-bd98-4c72-851c-7e788b53fc3c,50+,Tech Innovations,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-09
+51ed0a3e-338c-4bc1-97b6-298d4b824a46,50+,Food & Culture,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-08
+dc66324a-05dc-4d17-8fd0-305e4ba23ebb,26-35,Photography,Online Ads,4,0,Friendly staff and clean premises.,Positive,2025-12-07
+a9cd980d-7586-4ff4-803b-94b67b725781,36-50,Food & Culture,Social Media,2,1,"Too crowded on weekends, hard to move around.",Negative,2025-12-03
+e91d3df1-eb9e-48c3-a79f-4476ed6c20a7,36-50,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-04
+5f77e65a-3cde-489d-84fd-6bd6769ae9a9,26-35,Modern Art,Social Media,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+29f31eaa-2090-4c10-accb-708f93dd3cc9,Under 18,Modern Art,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-08
+9fb5d3a1-c2dc-4e05-ab96-290de7786f1a,36-50,Modern Art,Online Ads,3,1,"Some zones were good, others not so much.",Neutral,2025-12-14
+6021020d-011c-49e3-a160-7e86a85a9e75,26-35,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-11
+6339ac91-ea03-4e29-b860-6137130bf32b,36-50,Kids Zone,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-17
+a4f5124f-1a53-4138-8cf4-3b5ab3f1972b,50+,Kids Zone,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+60555f9c-b03f-4d76-85a7-236b0eedb4a2,26-35,Heritage Crafts,Social Media,3,0,"It was okay, nothing special.",Neutral,2025-12-06
+926fe201-9529-43fe-ad82-1dd3e0ff7faf,36-50,Tech Innovations,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-09
+3b5cbbe8-0efb-43fd-a485-5002767cdb78,50+,Food & Culture,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-11
+cead1ce0-9e67-4f28-8782-40009070415b,Under 18,Heritage Crafts,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-03
+508ec928-7f10-47e8-ad0d-542b5e0f71f4,Under 18,Tech Innovations,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-08
+296442e8-6d88-46f6-b143-1d57e76a7216,Under 18,Heritage Crafts,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-18
+aed52080-5d8c-42fc-87f5-e0c874fd9cd4,50+,Food & Culture,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+d0a212c0-5b81-436a-b195-9d9ea646fe76,26-35,Heritage Crafts,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+d362156f-4c81-4fdf-9ac3-5e344d7b60c4,50+,Photography,College/Work,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+f21940c9-a898-48a4-8c09-802ee77193a4,26-35,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-09
+af891d13-356f-4b76-b955-ecfb164f91d9,Under 18,Heritage Crafts,College/Work,2,1,Photography section felt empty and poorly curated.,Negative,2025-12-07
+70fc9c82-2a59-4d83-b628-f62c7ee2cea5,18-25,Kids Zone,Online Ads,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+9a8d6fe1-2781-4cf9-a5bd-9b39a6ca0c56,36-50,Food & Culture,Friends/Family,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-17
+dbd73631-3f03-49b0-ba23-4c8a445610fb,18-25,Tech Innovations,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+4c685247-93f6-4826-9e48-fab8d684eae2,26-35,Modern Art,Online Ads,3,0,"Average experience, could be better.",Neutral,2025-12-01
+94bd971d-92ca-4777-994e-27326e643675,26-35,Heritage Crafts,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+d4fca224-ce58-4e7d-b307-19029b735ead,26-35,Kids Zone,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-02
+478272b9-61f7-42fb-b150-18d532ef5793,18-25,Food & Culture,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+21dafa20-fddb-4a71-9c96-3fc9db260bbc,26-35,Tech Innovations,Social Media,5,0,Friendly staff and clean premises.,Positive,2025-12-10
+a1c47c3e-b4da-41dd-b89d-6b96b01a1ccb,18-25,Modern Art,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-16
+c67e024f-8e90-48cd-b779-0b0cf3ff0150,18-25,Tech Innovations,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-03
+ceedb607-3798-4a92-b7a7-6350210b5c88,18-25,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-01
+5b7d994c-b1c5-42b7-b690-f4a80c000699,18-25,Tech Innovations,Social Media,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-05
+2ae4c82c-1bb2-4bde-af6a-d969d96d26f6,50+,Photography,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+14725e7e-1fa0-437b-b8a8-d8002fa2bb4d,50+,Modern Art,Newspaper,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+2a4314ca-92c7-486c-8404-9cf357f76410,50+,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-17
+1c66d684-f5b6-4fbc-a204-ad217fb76075,50+,Kids Zone,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+7cd6be43-1979-452e-8244-43044952042a,Under 18,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-04
+83b2734c-943b-4522-a950-26598f3d5cb9,50+,Food & Culture,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-18
+ff943cf0-3c8a-4aa4-ab01-bb845df87061,36-50,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-03
+5fa0da4d-f18e-489f-9c36-3f1aebb20517,50+,Photography,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-16
+9c2ffca3-e352-443e-b506-681bfd134841,26-35,Tech Innovations,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-08
+b4aca8ac-2a9e-45d2-ba90-d6c5f17626a2,36-50,Photography,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+c84f6a0d-16ef-49d7-ac56-9cafab28e72f,Under 18,Photography,Newspaper,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-03
+2958d620-2ec5-42fe-afa0-6af0510dd74a,26-35,Kids Zone,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-10
+8dc042d4-4f1f-4994-b301-6f718f4c0fd5,18-25,Kids Zone,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-09
+5d2ee8a1-ed79-4287-9cd8-cbcd92f3d1a1,18-25,Photography,Newspaper,3,1,"It was okay, nothing special.",Neutral,2025-12-17
+1fff0e4a-52ef-40ec-a392-5e984bc813e5,36-50,Tech Innovations,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-18
+2c30f339-81b1-473c-8881-6091a212af85,Under 18,Modern Art,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-15
+af8da9d7-a632-4b1f-84ef-93003000c23a,36-50,Heritage Crafts,Online Ads,5,1,Friendly staff and clean premises.,Positive,2025-12-07
+fb633dae-1d57-454d-ba80-71dd6654f5a4,Under 18,Heritage Crafts,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-12
+e2a033be-d353-4cde-99e8-c3e67c936986,50+,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-12
+e9f3217d-79f7-48f3-a039-b447d3b1f592,36-50,Modern Art,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-16
+86c5bc4b-989b-4c2d-b5a5-d9b29df02573,36-50,Photography,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-12
+0cb64030-ad17-4ca8-855b-41053caac6a8,Under 18,Food & Culture,College/Work,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-11
+9576cfbd-cc53-45b9-ac6e-5e020aafe582,18-25,Food & Culture,College/Work,3,0,"It was okay, nothing special.",Neutral,2025-12-10
+21044941-ff1a-414b-a275-5abb1e5fb214,Under 18,Tech Innovations,Friends/Family,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-19
+772cd736-33c9-4b35-bfa9-eb8a21d6cba3,36-50,Heritage Crafts,College/Work,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+09649791-e54e-45be-9f19-b5ec36995389,26-35,Heritage Crafts,Newspaper,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-09
+7677627d-3e4c-4ead-a9ae-6b6d29967306,26-35,Food & Culture,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-14
+da0406da-2093-47e4-8abf-9e516a0e8585,36-50,Heritage Crafts,Online Ads,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-18
+e5d81b6d-ae2b-463f-ad23-10897684b355,Under 18,Modern Art,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+ee60a454-138b-4716-8676-a878422e918d,26-35,Kids Zone,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-18
+8584d316-8066-45b7-b3c9-4ee860c1b28a,36-50,Modern Art,Friends/Family,5,1,"Great experience overall, well organized.",Positive,2025-12-09
+bd873d41-b1d9-47a4-b472-8ba51d346a88,26-35,Photography,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+f8bc4e84-0c5a-41f7-afda-e1a08f23767c,36-50,Kids Zone,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-03
+33035e18-4b99-41b2-afa6-11bd558959a9,36-50,Modern Art,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-11
+11ba6123-a60b-4866-afc7-c7b994854b52,18-25,Food & Culture,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-06
+2dc4f703-79a2-477a-adae-65f4ec68a6b0,Under 18,Tech Innovations,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-19
+43f0eae4-2a3e-4005-b9d2-7a97272c9120,36-50,Modern Art,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-07
+998734cc-b95b-4318-b45c-79a52ea889f5,26-35,Food & Culture,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-19
+d21b1787-8c8a-4db2-99d2-49b390140d46,50+,Tech Innovations,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-07
+d86f8683-c9f7-456c-8099-a54d46710f95,18-25,Heritage Crafts,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-14
+6b013cf1-0c6b-4c87-a3fa-d88497762f86,18-25,Tech Innovations,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+474ae8e2-6928-446c-b6ab-78018378484f,Under 18,Kids Zone,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-17
+944a6844-598a-45e2-b229-73e336c3d36a,18-25,Food & Culture,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-05
+02c8da6f-4746-400d-b3cb-13f6983af87b,Under 18,Kids Zone,Online Ads,2,1,Lighting in some zones was too dim.,Negative,2025-12-21
+a776c151-2a19-4764-b23c-0eb61974bfef,50+,Food & Culture,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-05
+d941ec04-5738-4c00-af25-c43a8c7566fb,Under 18,Modern Art,Newspaper,3,1,"Some zones were good, others not so much.",Neutral,2025-12-05
+58051358-538a-4399-b525-ca2556669f54,50+,Photography,Newspaper,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-04
+f4c8a375-9e7a-4b19-a91a-8064079d9ab1,26-35,Heritage Crafts,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-13
+245990a8-0b9f-47c6-9879-dcdd1ee0161a,50+,Tech Innovations,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-15
+3339b17a-980f-485e-81ed-426ac982143b,18-25,Tech Innovations,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+b20dd99a-f26b-45cb-ad86-0542601740d3,26-35,Heritage Crafts,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+57330a78-2fdc-4015-9827-fccba0be479a,26-35,Food & Culture,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-12
+842e139e-790a-452e-93b5-0bbd1217b5dd,Under 18,Modern Art,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-12
+dd5f57ff-5391-4db5-a17c-1629f6fb2cf1,18-25,Photography,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-17
+cb04dfee-adf6-4d28-922a-e77bef8b86e3,36-50,Heritage Crafts,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-07
+f9cee381-371d-4c6d-80c9-c31b8858b4e1,18-25,Modern Art,Social Media,3,0,"Average experience, could be better.",Neutral,2025-12-04
+c205ef3e-b8fd-466c-884a-50c0438f718b,50+,Kids Zone,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-14
+b56850e0-e0ea-4f73-a7a5-b72faac27625,50+,Photography,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-07
+6796ddea-6563-46bf-a684-00d86a184a05,18-25,Heritage Crafts,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-06
+c4f6f205-2330-42fd-9429-8a9c7ab237aa,26-35,Food & Culture,College/Work,2,0,Long queues at food stalls.,Negative,2025-12-06
+1fc6a945-8460-4bbe-aa1f-ad16b56fffd1,18-25,Tech Innovations,Newspaper,4,1,"Great experience overall, well organized.",Positive,2025-12-15
+211162cc-985a-4e5f-87d1-c479e58ae1fc,36-50,Heritage Crafts,College/Work,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-15
+e89a63af-bbce-4020-b596-0f777cda97c3,Under 18,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-14
+126d1071-3c45-4a75-b87f-327c690c954c,18-25,Heritage Crafts,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-10
+33397a40-c921-42a0-b307-4e0d6a492cda,Under 18,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-18
+3c1ef0e7-21b8-4f8d-9993-ac6d64f56c4b,26-35,Food & Culture,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-01
+6d21292a-effe-431a-869d-f2baebcc8382,18-25,Photography,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-02
+ff2ab096-c9bc-4108-8bb2-325e42feb10d,36-50,Food & Culture,Social Media,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-09
+5f674746-f609-4293-9e0c-f1ecc1c3b3be,Under 18,Modern Art,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-09
+bd819287-735a-41cc-b290-3c632f8d6624,Under 18,Tech Innovations,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-11
+7b3c6927-fe71-4c65-8377-349ad2f21eb9,Under 18,Tech Innovations,College/Work,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-21
+0480b6c4-3c5b-41fb-88a3-b0c02bc8768d,18-25,Heritage Crafts,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-15
+9224e89f-8ebe-4817-81cb-888dfc2280c8,36-50,Food & Culture,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-16
+0367a7ad-ce36-4e53-9c62-d5ec9d5d906b,26-35,Modern Art,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
+57c7861c-fdd4-4ebc-93c7-57b18722c02f,26-35,Modern Art,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-20
+fb6f673b-b624-4532-96f5-7b9aacc8ecdd,18-25,Heritage Crafts,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-14
+8fb744f1-665e-4396-9227-107da2659766,Under 18,Heritage Crafts,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-06
+46e19741-8cb7-428e-8393-11c03ea08948,Under 18,Food & Culture,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+6465c7eb-0dde-4a7f-bcf3-3ef15c0a4bc4,36-50,Food & Culture,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-15
+442ae86e-a29c-43ee-8b71-a72996a6bea0,18-25,Kids Zone,College/Work,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-04
+3d889a76-b8d5-4b62-b6bd-41ff5ddd3fb3,26-35,Tech Innovations,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+b46ef280-9f0d-49bd-9961-f8dc175432b6,18-25,Modern Art,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+9d027323-0afa-45da-b06b-ac05d72b2e95,26-35,Kids Zone,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-08
+f91e7981-af05-483f-b46c-34e4918a5d50,18-25,Kids Zone,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+c5333e6c-f333-48d9-a8a9-6bdc021fc738,Under 18,Heritage Crafts,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-15
+b2768355-2223-4900-9753-dbe50e7255da,26-35,Tech Innovations,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
+39a70ef8-54c4-4c5f-84df-1cbbb95a6446,Under 18,Kids Zone,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-15
+31a3f2f4-981f-41ea-afdf-8d6a50e10e28,Under 18,Kids Zone,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+ee95948d-7719-4ce2-829a-dc9aa6b053ac,Under 18,Tech Innovations,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-07
+ffb5cad8-851b-42cc-8e62-b2b6266016be,50+,Tech Innovations,College/Work,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-01
+cc7c3d30-fff7-4752-99fe-898652f5e769,26-35,Tech Innovations,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-07
+0751d0ee-3eff-40d9-9353-7817e822a4d6,50+,Heritage Crafts,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-13
+03cfdeed-872b-4250-b122-422c68d5e36a,18-25,Photography,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-06
+51e4d012-98db-4195-989f-d1d20423197d,26-35,Food & Culture,Friends/Family,2,1,Lighting in some zones was too dim.,Negative,2025-12-10
+ce718e57-2be8-404e-8aea-506086b6d49a,26-35,Food & Culture,College/Work,3,0,"It was okay, nothing special.",Neutral,2025-12-14
+4cdcf911-777a-470c-aa06-6beb55aabe40,26-35,Food & Culture,Newspaper,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-13
+0f259e12-8730-4830-951d-e599f17c6c35,36-50,Modern Art,Online Ads,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+41ad1a16-de22-491e-8a71-481c540ea67d,26-35,Food & Culture,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-01
+2d3db388-a5b8-4814-a4b5-2a0136642c35,18-25,Heritage Crafts,Newspaper,4,0,Friendly staff and clean premises.,Positive,2025-12-03
+e65afa09-f056-4d27-9301-d555483d0a57,26-35,Kids Zone,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+4e4f1eaa-df39-47f7-bd84-2168f69605f9,50+,Tech Innovations,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-13
+5db92a00-7753-4db6-9b46-1ab70191c2b2,26-35,Food & Culture,Social Media,3,0,"It was okay, nothing special.",Neutral,2025-12-16
+9cf2bb28-b81e-47e0-abcb-7f607d9e4a85,50+,Tech Innovations,Online Ads,2,1,Photography section felt empty and poorly curated.,Negative,2025-12-20
+2cd31dc9-c5c1-4f27-baa1-6743350b6175,18-25,Photography,Newspaper,5,1,"Great experience overall, well organized.",Positive,2025-12-07
+2d2b4c6e-8b0f-471a-a7f3-cadfacb1837b,50+,Food & Culture,Social Media,2,1,"Too crowded on weekends, hard to move around.",Negative,2025-12-17
+7694a048-6040-45e2-8e93-9f2a735c137d,26-35,Modern Art,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-07
+d25ac957-9776-4b71-9077-748b832939d6,Under 18,Heritage Crafts,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-13
+96dd20a0-dcae-4879-b173-6594c9aca2c5,50+,Kids Zone,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+9e19ea23-9c77-4983-928b-0f2b756921d8,50+,Food & Culture,Social Media,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-12
+e9e4d4cd-eba1-428a-8135-97c296aae9df,36-50,Food & Culture,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-16
+06c881e3-68d9-462e-96ad-cbacab20d07b,36-50,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-15
+c201cd8d-2079-4459-97f3-acee700e00f4,36-50,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-14
+14da9a5d-bee7-4122-bc43-847a9142bdb4,36-50,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+3df16b77-eac8-4b26-a6ff-f0f9976340fd,Under 18,Photography,Online Ads,5,1,"Great experience overall, well organized.",Positive,2025-12-17
+525b6fb5-74c3-44bc-a212-e613c8907564,50+,Heritage Crafts,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-05
+9811f3fa-89e0-4391-ad26-4e119568ec68,50+,Heritage Crafts,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-07
+48ff3779-3797-4305-89bc-ad240e65d347,26-35,Modern Art,Online Ads,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-06
+f99eac42-9c58-4102-b13d-6a3a7d65b468,18-25,Photography,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+467ba995-e116-4b84-bac1-b6df7ad76581,50+,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-05
+0739090e-60aa-4bca-98bd-e9c29a271a16,36-50,Tech Innovations,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-17
+6222d5bf-61e8-4621-bc33-36d2799cfbab,26-35,Modern Art,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+03497799-8b1e-4e50-80e7-e706cbc6f33e,26-35,Photography,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+0beebe59-76a0-4fe4-8d61-a8314852f242,Under 18,Heritage Crafts,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+e4f1ba67-e353-419d-9358-7722935324b0,50+,Kids Zone,Newspaper,3,0,"Some zones were good, others not so much.",Neutral,2025-12-09
+ac622c71-aec5-4284-8b60-af8fc322692f,36-50,Kids Zone,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-13
+0e93cbd4-6573-4835-8557-e24eb11af93c,18-25,Tech Innovations,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+4ac9b639-40ed-46ce-9b0c-c3cb7b7609db,50+,Modern Art,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-17
+7761e038-51c9-4fd0-82e6-a0157a339fff,50+,Tech Innovations,Online Ads,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-01
+57bfb04d-9c84-4f2e-ba06-c7762e7949e8,18-25,Photography,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-14
+9f88f22f-4fc7-44c1-9339-61e6ba2702cb,26-35,Food & Culture,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-08
+2d37491e-f46c-462d-a2b3-48a055b7c976,Under 18,Kids Zone,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+947f6adb-1bb1-4fa7-9d55-1488f12bfc14,50+,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-19
+9b2726fa-9b53-4e0d-8aa4-48c49843808d,18-25,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-16
+7f7b5ef6-f532-4c9d-b67a-fe2a373ca0ba,Under 18,Modern Art,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-05
+04f2f200-db1a-47f2-b0b1-de9c8bbe0452,Under 18,Food & Culture,Newspaper,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-09
+bed7f7df-c5b6-48c0-8043-29f952fbf122,Under 18,Food & Culture,Social Media,3,0,"Average experience, could be better.",Neutral,2025-12-12
+9f885494-4026-4e08-ab09-419314870d6d,50+,Kids Zone,Friends/Family,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+20d5bef9-2025-4358-b7c1-f0f80bb67440,Under 18,Modern Art,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-13
+3f8259c3-b0e2-4bbb-92f6-b109d5191a81,18-25,Modern Art,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-01
+41ef8e33-00e8-49ca-9051-247fbcbc3aea,18-25,Kids Zone,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-20
+9b463c23-3c68-46e1-8f22-3f3ab0e2b9fa,36-50,Photography,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-10
+e9e4a503-bef8-48cc-ad9b-298500f429c0,Under 18,Heritage Crafts,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-16
+d00271fc-5f39-47e1-80b0-fd2cfc7e79b8,Under 18,Photography,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-15
+ce352453-3e47-4838-88f2-6904683ce754,36-50,Heritage Crafts,Social Media,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+d16c25a9-314f-4a98-af36-d2ead780872e,Under 18,Modern Art,Social Media,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+2aba6cff-e716-4785-a362-b279bd2927dd,26-35,Photography,Newspaper,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-17
+07dded42-1fe7-43ae-9c36-a3bf8bab1245,18-25,Tech Innovations,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+c6bc15ce-034d-4b12-b3ea-0ef89aa0b744,18-25,Tech Innovations,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-11
+987d8a71-446b-45b9-bb94-d468ae642faa,26-35,Modern Art,Newspaper,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+7ecee252-dfcd-46a0-8245-853e3949b217,50+,Photography,Friends/Family,2,0,Lighting in some zones was too dim.,Negative,2025-12-01
+c9b2a4a1-ff3e-4b01-9a64-40b0b080149c,18-25,Heritage Crafts,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-07
+5806b40d-66fe-4d96-b9c4-cf86731a736a,50+,Food & Culture,Social Media,4,0,Friendly staff and clean premises.,Positive,2025-12-05
+e768bea7-5277-455c-bdc5-5b16bb74b92f,Under 18,Heritage Crafts,Social Media,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-12
+b3fcd02d-0bae-42d8-ba72-5a94c6d55682,Under 18,Modern Art,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-21
+c74856f2-c0ce-4590-adc3-935c44833df5,Under 18,Photography,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-19
+18354a0a-20c5-43ff-95ae-3fbb9159e7b5,50+,Tech Innovations,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-13
+79c6773f-1eaa-4576-a6de-e7d5a6ff48fa,18-25,Heritage Crafts,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-21
+2044fe38-adac-4363-808d-ce9394a070b4,26-35,Heritage Crafts,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-21
+efe3b5d6-9456-43d6-bdbf-dc23671207db,26-35,Modern Art,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+70f0b3fd-5cc3-43e3-8d79-5f91b746b7da,Under 18,Tech Innovations,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-11
+a5efb65e-9dca-49fd-83e6-fe5f7a21f6a0,36-50,Kids Zone,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-01
+70e545dc-f6c5-4e0c-98a3-2ae7bfdf16db,36-50,Food & Culture,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+fe89b0ca-94dc-4959-ac53-78ecf93a1b62,50+,Photography,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+f33ba3eb-a40e-4e19-8b9b-c67df8b35f71,18-25,Kids Zone,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-10
+463d3db2-3b40-4e13-9d62-23b6f72c1a2e,26-35,Heritage Crafts,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-06
+d4b213a2-f306-4267-ada7-470d78e979c3,26-35,Food & Culture,Online Ads,3,1,"Some zones were good, others not so much.",Neutral,2025-12-19
+0b19acf8-ca1c-45bc-b97d-c90b35c2ada2,18-25,Modern Art,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+e9eb310e-1f13-442e-b65f-59a1ba618413,Under 18,Heritage Crafts,Friends/Family,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-18
+b59e2b4d-7ec0-4b6f-9f10-aa6acc4f6f99,26-35,Heritage Crafts,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+c6da31d8-5d87-4f7f-b26d-4aac8279c949,36-50,Photography,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-07
+83b69124-90a1-49b9-8252-56ebe4a3d650,36-50,Tech Innovations,Online Ads,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-13
+a7895e04-df64-4da0-9a37-98a900664b96,36-50,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-20
+8bfe7d30-88f2-4bd8-8c15-476537a59d6c,26-35,Photography,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-15
+f55bd0ff-771c-41f3-8b1f-b4626ef3d609,26-35,Photography,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-09
+6a72dc97-1116-4322-a533-bbddaac4730a,18-25,Kids Zone,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-08
+41860c39-3f87-4f63-8b04-fbc722ef7eb0,26-35,Kids Zone,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-20
+c003d18d-959a-4a92-a61d-0fa2283b234e,18-25,Modern Art,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-20
+8caeac79-ac63-47a8-87e2-0d15545a8021,18-25,Kids Zone,Social Media,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+5022bb16-25e7-460b-8631-9a445654b466,18-25,Photography,Online Ads,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-13
+fc752b12-6a7c-46bd-a311-f1c72f95e556,26-35,Modern Art,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-07
+4e2dccbb-2aef-4497-b659-53b598b48fe9,Under 18,Heritage Crafts,Social Media,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+5513844f-06c8-4c3f-9fc1-e9f3cb845e23,36-50,Heritage Crafts,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-08
+d005f84d-7f95-452c-b88f-ff1cee51998c,26-35,Kids Zone,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-20
+9166cf50-5900-4b6f-b926-0f5c83843616,Under 18,Photography,College/Work,5,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-14
+e8877954-58d9-4e1b-87e4-24889142ac15,50+,Photography,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-08
+7c861ff7-740b-430f-9943-57ecdfb6e3a8,50+,Photography,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+85814f90-b0b8-4851-bf1d-5ba01f160a29,36-50,Heritage Crafts,Social Media,2,1,Long queues at food stalls.,Negative,2025-12-04
+2e88d96f-f27c-4fdc-a771-16ca8f99f9bf,36-50,Food & Culture,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-09
+c26af5eb-a251-47c5-b19b-1154a14f5325,36-50,Food & Culture,Social Media,3,0,"Average experience, could be better.",Neutral,2025-12-17
+ed381dc2-3595-4573-989a-7255e7678ed7,18-25,Photography,College/Work,2,1,Lighting in some zones was too dim.,Negative,2025-12-01
+a54ffcf2-3eb0-482b-a811-476e8a2b2f1a,Under 18,Food & Culture,Social Media,2,1,Long queues at food stalls.,Negative,2025-12-06
+60b87c4e-9066-459c-a48a-d55619062337,50+,Photography,Social Media,4,0,"Great experience overall, well organized.",Positive,2025-12-15
+f43194e6-1711-44a2-916b-9032f2cdf2a2,36-50,Kids Zone,Friends/Family,5,1,"Great experience overall, well organized.",Positive,2025-12-12
+27ee1b37-83e2-4398-a448-f834204b659a,36-50,Kids Zone,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+5aa44363-d9df-4432-b5d6-ad6c8ad3a99f,Under 18,Food & Culture,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-21
+164ef4f2-9929-4c25-a78d-39a88d5dc9df,26-35,Heritage Crafts,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-03
+6c68bed0-c2ec-44e2-a072-8b629ccfaeac,26-35,Food & Culture,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-10
+39cc292a-d155-4e3f-af18-29e7fb8ff004,50+,Photography,Online Ads,5,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-13
+29cc1eae-0a16-4ed4-9632-4677688df734,18-25,Food & Culture,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-21
+b047345a-8f79-4e0c-940f-38c2acde28b5,50+,Modern Art,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+aad34309-fe9a-4877-8429-50d2cb6f99f6,36-50,Tech Innovations,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-18
+5f994b57-30f3-45e4-a080-5b8cc4659e4e,36-50,Photography,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-09
+589d6bea-523b-417a-8d80-3f14cfc913e5,26-35,Photography,Online Ads,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-16
+75a8ecd7-9a5d-4188-9531-4e9819c6321b,26-35,Heritage Crafts,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+77eeeb6c-8a58-42e1-8db5-17350884f582,36-50,Food & Culture,Newspaper,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-12
+01a525c7-3cfe-408b-83fb-8e331c6e40de,36-50,Modern Art,Social Media,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-11
+f0f7ab52-a77b-4fba-bde9-fb88de54adeb,26-35,Modern Art,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-01
+5eb5f4ad-9194-4072-aa05-b677dcb5ace5,26-35,Modern Art,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-05
+79d870e3-41bc-4e69-8c67-becf4287efb7,36-50,Modern Art,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-13
+18aadfdd-156f-4a72-92a9-2d8339345891,50+,Kids Zone,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-03
+f27d93b8-6915-49c0-90f8-8a6777fb7c4e,26-35,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-17
+84060a56-3df6-4f6d-87bf-9150408f01db,36-50,Heritage Crafts,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-04
+a62163c7-20f7-436c-844a-177cc36707e0,18-25,Tech Innovations,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-18
+21dc756a-6583-473a-974f-1ceb2f5f3b56,36-50,Heritage Crafts,Online Ads,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-08
+491f8c12-bdf9-4fd9-a0ce-ce0832d98afa,50+,Food & Culture,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-06
+3d315c82-93b3-4217-9ce8-e8a160f4613a,50+,Tech Innovations,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-15
+4a23b36f-c913-4296-b907-ab08cffaf0b9,36-50,Tech Innovations,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-06
+ca3d5299-f945-4430-b7c2-5a5225809909,Under 18,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-11
+eac739da-1a8d-468b-b3f4-bce92ba41baf,36-50,Heritage Crafts,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-02
+260036b0-bdc7-42ec-9150-7ec19c29374a,36-50,Modern Art,Newspaper,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+5c9c02b0-9951-46ff-b901-04678226893d,50+,Tech Innovations,Friends/Family,5,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+07a693a1-7eb8-4463-8fc4-88031911e7ee,36-50,Food & Culture,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-10
+7b618253-a262-4fa7-984a-e586625b3d75,36-50,Tech Innovations,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-09
+b759373a-e6b4-4074-af34-a9cc3ac70075,18-25,Kids Zone,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-11
+c36d5e3b-ac32-48be-8921-526af3a7d761,26-35,Modern Art,Social Media,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-03
+cc0c3bdf-2082-4c70-a193-a6b63631b181,50+,Heritage Crafts,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-02
+8b9f1b29-67f3-4f2f-ad3c-fba4e00ff5d7,Under 18,Food & Culture,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-16
+09e56616-4b78-44ac-9c1f-4ca0cb046883,Under 18,Kids Zone,College/Work,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-20
+bfb9fcbc-8673-40b8-a9a5-31ccf21d431c,18-25,Food & Culture,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-20
+8fb3c76a-4177-4461-840e-7b88fea107b2,18-25,Photography,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+3f66b91c-c8a6-4a7f-8f71-ea05d7fbbfb2,18-25,Modern Art,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+d492c110-93f8-434c-add5-91c69095f52e,26-35,Photography,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-10
+d3e4b380-3cc0-45e6-a885-1aaa893da17a,26-35,Kids Zone,College/Work,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-02
+f3bcb63b-14e8-4ec2-b611-c2610b5df560,36-50,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+7abd9298-9e4d-4e71-853e-797b40ad3029,50+,Food & Culture,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-14
+39df90ef-bb1b-4123-8783-cb76b713c4ff,36-50,Kids Zone,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+a646e324-849c-4aa2-854b-2a1b5ecea9d1,18-25,Kids Zone,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-04
+4ece871e-27cc-4dce-8c81-02fa71756175,36-50,Heritage Crafts,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-01
+e5dd3e3f-f9c5-48c2-9fb3-bd9a16011e4c,Under 18,Food & Culture,Newspaper,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+a05690fd-f9fc-4519-aefd-c84029d69275,18-25,Modern Art,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-19
+223d6f20-6aea-4b6a-8883-3d0c75881445,18-25,Modern Art,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-05
+0685f4ec-aab9-4b76-96ff-e81fb1742f3d,26-35,Photography,Newspaper,3,1,"It was okay, nothing special.",Neutral,2025-12-15
+22688c7e-f3f1-4822-b712-46fe8c007833,Under 18,Photography,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-01
+bd441d41-15df-41c9-861e-874e7ce8701a,50+,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-20
+43342da8-c87f-4a0f-b9c9-44a3cc1c9a46,50+,Modern Art,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-19
+bb181522-b802-49e2-b7a3-4eb55bd4d799,36-50,Photography,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-04
+62e56fc6-60c2-4522-8b85-ff60f7e36237,18-25,Tech Innovations,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+329475f5-bf04-4b34-930c-1577544aded9,50+,Food & Culture,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+ff4b40b9-62a8-4645-94b8-e4afb31f33c8,50+,Photography,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-01
+a26a8700-56ab-46b5-9d1b-b87878b91cfc,26-35,Modern Art,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-08
+f6737eeb-2694-454c-a3b6-069e9cd1f3ff,36-50,Food & Culture,Newspaper,3,0,"Average experience, could be better.",Neutral,2025-12-15
+45241e3d-b4b9-4477-9f0b-7927160dddaf,Under 18,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-06
+962da82b-d205-4a84-a08e-f3b2b9d13699,26-35,Kids Zone,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-19
+ca8c8592-83a9-4d5e-bc2a-a198cef7c0ca,50+,Modern Art,Newspaper,3,0,"Average experience, could be better.",Neutral,2025-12-12
+b9028e32-0586-4ed2-b0dd-6a60714bdee5,50+,Kids Zone,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-07
+ec85e4c4-55a3-40f3-af76-56dc9da7e118,26-35,Photography,Newspaper,5,1,"Great experience overall, well organized.",Positive,2025-12-15
+ff759552-da69-4144-8556-159265df3bf2,26-35,Photography,Friends/Family,5,1,"Great experience overall, well organized.",Positive,2025-12-13
+6fd5339a-5cd3-4cf7-a36c-caf23f4151bb,Under 18,Food & Culture,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-03
+4e8ba86e-8047-47aa-b490-7486e981bf85,50+,Modern Art,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-17
+c8e9e7bb-3bce-4049-892b-601cc0351505,50+,Tech Innovations,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-07
+aec7660e-93a4-4fc6-bd46-f6e22420cb8d,26-35,Heritage Crafts,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-13
+c5626a5a-0330-44a4-a1b1-972b3227ff16,18-25,Kids Zone,Social Media,2,0,"Too crowded on weekends, hard to move around.",Negative,2025-12-12
+964c0b73-dd1a-4c48-8a69-d631b825150f,36-50,Heritage Crafts,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+95e4d539-4acc-4297-814d-5857056dec04,26-35,Heritage Crafts,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-02
+1675a1f1-0a3d-4b54-a4c7-22a0277d95e4,36-50,Modern Art,Friends/Family,2,1,Not enough seating areas for elderly visitors.,Negative,2025-12-09
+5965e455-ebba-4b68-8bb9-fd10d8b439fc,36-50,Food & Culture,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-05
+2d8cac21-c7f2-4c63-b105-b164299ccd8d,26-35,Tech Innovations,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+df22c68b-2d5e-4bb6-80fd-9110c6e707e9,Under 18,Heritage Crafts,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-15
+a257c47e-4e0e-4ae8-a74b-424f63743557,50+,Food & Culture,Newspaper,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+b3076fe0-7191-44ee-bd8e-01f859ce853e,50+,Tech Innovations,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+5b13b891-d9ac-4b6e-8bce-e426b706833b,36-50,Food & Culture,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-08
+7b8bba0a-d0cd-4850-b4ae-d07100c9a0a5,18-25,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+33e1a32e-1018-41a2-92e2-8d33d54cf5ad,Under 18,Heritage Crafts,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-17
+b27c4c6c-cfca-470e-a9ad-c9fae20bdef8,36-50,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-01
+81cf7ff3-4f6d-4a41-ae7e-685e6e4e548f,26-35,Modern Art,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+7c79d9f1-3269-4b91-bacf-3a22ce2ef060,26-35,Heritage Crafts,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-12
+e18375ba-22f6-4cd6-a1da-bb4f55be9e95,18-25,Food & Culture,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-01
+855a701e-3878-40ec-b08e-524a959fa11f,18-25,Food & Culture,College/Work,2,1,Lighting in some zones was too dim.,Negative,2025-12-08
+4fec7a63-721c-4d57-8ce9-28d109d1c13b,26-35,Heritage Crafts,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-15
+0c3aadb0-3665-447f-87de-af650bcbad9c,Under 18,Heritage Crafts,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-11
+96def802-def8-46a6-a566-3413c56c4d78,36-50,Tech Innovations,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-11
+c6dc12f0-230d-4b52-b10b-a704cb6effb4,Under 18,Modern Art,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-05
+0b7da63b-1cb7-483d-b56e-7278962d99dd,26-35,Food & Culture,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-01
+68f2298c-7fba-4599-96f2-8377eed6b208,26-35,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-16
+91530827-257d-4228-8469-52af3554a280,36-50,Heritage Crafts,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-17
+c59cc3b0-1d64-4fad-a28b-e357d929c77b,18-25,Heritage Crafts,Friends/Family,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-04
+b2935347-f873-4a3a-8d06-6f6666c6fa3c,26-35,Tech Innovations,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-08
+e9aee827-3565-4837-a504-0572f161f466,36-50,Modern Art,Social Media,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+349ca5e8-6242-4534-92df-3b293f8c8926,18-25,Photography,Online Ads,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+502ffda2-375e-4773-aeed-adc54b3d269e,18-25,Tech Innovations,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-17
+505da3db-24e7-423a-8ff0-a59ed2d2eb40,26-35,Tech Innovations,Friends/Family,4,0,"Great experience overall, well organized.",Positive,2025-12-07
+4a44bbc5-2c2c-4389-ad9a-7a5bc5bd9def,18-25,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-08
+57ac999f-0246-4a32-999a-56c3270122be,18-25,Photography,Newspaper,1,0,"Too crowded on weekends, hard to move around.",Negative,2025-12-20
+96054bc3-f03d-4cdc-bcb8-9d4316918869,26-35,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-21
+75765d33-7b58-4ce3-bbf2-3489226f3e9b,26-35,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-17
+1b77a4bc-9c88-4f4e-b400-d602a6cb0331,Under 18,Food & Culture,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-10
+d4d575ac-5d94-4b3d-8386-7bba7e92cea2,Under 18,Photography,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-16
+a025d4b3-ada1-4ffa-b565-16f96cae95b6,26-35,Modern Art,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+4f784280-3db6-4097-b6eb-c0fcbd0a012b,26-35,Heritage Crafts,Friends/Family,4,0,"Great experience overall, well organized.",Positive,2025-12-12
+bae6fc37-4798-4e24-b4c5-f73271f506db,50+,Kids Zone,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-08
+fd78c2dd-b886-4848-a51f-fb15e16eabc1,36-50,Tech Innovations,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-10
+85e07183-3872-4158-8dc1-39098ffa043f,36-50,Heritage Crafts,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-18
+7d3da43f-62e1-4846-b83c-3e0678f3cef1,18-25,Modern Art,Online Ads,3,1,"It was okay, nothing special.",Neutral,2025-12-06
+162ce099-fa34-46cb-9956-16e7182f1742,26-35,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-01
+40173521-6fc9-4d15-a34e-e3fe914284ab,18-25,Heritage Crafts,Social Media,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+bace1d3f-36b6-4476-ae22-390e0544be8e,50+,Kids Zone,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-12
+cdffb962-193a-43f2-9b4a-0b63d221b0e2,18-25,Heritage Crafts,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+64e3f66d-92d9-47c7-817b-86e31296eaa4,26-35,Kids Zone,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-05
+77f6db4b-c9a5-43e3-9485-41914ca8ee3c,18-25,Kids Zone,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-19
+c5869475-630a-4ac2-b0a1-23bde6b81572,36-50,Food & Culture,Social Media,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+bf288105-3faf-4603-b091-cec8d860659c,36-50,Food & Culture,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-02
+6d511cc7-a153-4fe5-8808-149f2cbc6410,26-35,Food & Culture,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-11
+f435850f-b1bd-46ad-a7cc-254fb4e30f88,50+,Photography,College/Work,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-13
+481766a1-6777-4006-af3a-d55d4f16fc5a,26-35,Kids Zone,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-12
+1f473ab8-4acf-444b-a9a7-d742010a6acd,Under 18,Modern Art,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+9d882b37-d3f1-4890-8645-75cacc57dd10,18-25,Tech Innovations,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-05
+c04c2700-9632-4396-a3f0-70c16e8cca6f,36-50,Food & Culture,Newspaper,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-02
+a33380c5-6a86-42ac-a044-62e9136baf87,50+,Heritage Crafts,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+4d6e38fa-6c9b-4ad9-9015-2fda263c6b34,Under 18,Photography,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-17
+8bd28519-8c6a-4b28-abd1-76f7067813b8,18-25,Heritage Crafts,Online Ads,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+12a2a266-3ded-4465-a5b3-fca0e20d4370,18-25,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-17
+40897b1a-1f4a-4430-b57d-ca57bc1056ee,36-50,Tech Innovations,Friends/Family,3,0,"It was okay, nothing special.",Neutral,2025-12-15
+f8ee2c54-6c11-46de-826f-6b09cca5af34,18-25,Heritage Crafts,College/Work,4,0,Friendly staff and clean premises.,Positive,2025-12-19
+4bbd7f33-66fe-4647-9324-ed6a5d68e8ad,18-25,Tech Innovations,College/Work,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-10
+171f8966-8525-4b9f-abec-b8fc572693b1,50+,Food & Culture,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-18
+a5bec4d7-e664-498c-9fbd-e2423538f808,36-50,Photography,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-16
+c6c6fb4c-845c-4a92-bc58-805d196a063e,Under 18,Food & Culture,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+081a6b93-1029-4d65-9d97-b65556e9d834,50+,Kids Zone,Friends/Family,2,0,Long queues at food stalls.,Negative,2025-12-06
+d7a25e8c-0787-4b2e-8398-7c3ea1b45f07,50+,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-07
+44179762-75d6-4c37-9f06-8c362ae45920,Under 18,Tech Innovations,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-12
+b3f9f827-06a5-429f-920f-8f45c9b024f5,Under 18,Food & Culture,Friends/Family,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+c72ee3c9-1215-4460-bbe1-42eaab18a14d,50+,Photography,Social Media,3,0,"It was okay, nothing special.",Neutral,2025-12-05
+cb669e78-71e9-4b13-9b03-db315a4f5d19,26-35,Food & Culture,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-20
+a1667551-71a5-47d3-99fe-4505c680b5af,Under 18,Tech Innovations,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-16
+ecd2d6ab-fd3b-4940-8a7d-7754a784c26c,18-25,Tech Innovations,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-14
+f382b66c-278f-4bbc-8558-5617ee038c2a,Under 18,Kids Zone,Friends/Family,4,0,Friendly staff and clean premises.,Positive,2025-12-19
+e0c442f3-a18d-400c-ba91-b9548b27c6c3,26-35,Modern Art,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-13
+99fdeb55-e130-48f5-b5b7-33f3fb73191e,36-50,Food & Culture,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+4c82b9cd-097a-4376-ad4a-60aec136c31d,50+,Food & Culture,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-01
+015329c2-54f3-4155-807c-585852f7f31d,36-50,Photography,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+bbb10f12-dbab-4ce9-a962-68308a14f2b6,50+,Modern Art,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+ed19b581-4a72-4e4d-89f3-af4db36d9ab0,18-25,Tech Innovations,Online Ads,4,1,Friendly staff and clean premises.,Positive,2025-12-14
+bb2c142a-0272-4933-a4ea-1b78f2d3a9fb,Under 18,Heritage Crafts,Social Media,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-10
+85190943-acc6-4cf4-aa2d-afcc6ff99dd2,50+,Kids Zone,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-17
+8841eb9b-2237-4439-bbd4-953aa29033c7,36-50,Photography,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-20
+bb96f87c-a3a6-4729-9040-ed767cc1c31e,36-50,Photography,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+7f948f2a-cb8f-4c93-8a57-b232b620808a,36-50,Modern Art,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-18
+4662ab19-b011-41f8-b1c2-9bb8949d1d36,18-25,Kids Zone,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-15
+b3190435-420e-45a2-85c5-e0c0aa1854c6,26-35,Kids Zone,Newspaper,4,1,Friendly staff and clean premises.,Positive,2025-12-03
+9b9dd336-ccea-4728-9998-383cf158b0a9,26-35,Modern Art,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-10
+815c165a-6fa0-4a86-8563-f9e95eefc99a,Under 18,Kids Zone,Newspaper,5,1,"Great experience overall, well organized.",Positive,2025-12-11
+8d6388d4-19f9-46e0-b3b7-922f9afb5167,18-25,Kids Zone,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-07
+f111c6b8-ca13-4280-bbda-b8f6af4339a4,36-50,Kids Zone,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-20
+208715f7-782f-497e-a67c-c87288859d63,50+,Heritage Crafts,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-02
+0c9d4c0f-0479-47c3-ba04-287b9f88717f,Under 18,Photography,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-18
+136677e0-321e-4475-a7e3-7922bad9f819,36-50,Heritage Crafts,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-01
+4fb4f755-1738-4ede-8251-90fe276ada7c,36-50,Modern Art,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-21
+f043ae1a-6915-4097-ace6-38f5aee97c77,18-25,Kids Zone,Friends/Family,1,1,Not enough seating areas for elderly visitors.,Negative,2025-12-04
+9e4f20a2-720a-4696-815d-d5a05c99c32c,50+,Modern Art,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+b53d0f17-eaf4-4453-8f8a-25535983d683,50+,Heritage Crafts,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-14
+de5b3086-c891-4cf4-b35d-a16a7180aafe,Under 18,Heritage Crafts,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-05
+7509f222-802b-4b30-af9e-0a9346302487,26-35,Photography,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-21
+c7690854-7a4c-4f68-8d35-6ded4292dcdb,Under 18,Heritage Crafts,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-13
+b5bdac2c-5f95-4c78-b62a-12b4501fda4d,18-25,Heritage Crafts,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+e6800f91-0130-4d13-80f3-8887f308ec5d,50+,Food & Culture,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-06
+a7e1d9fc-a8e3-48fc-8a17-1192fdcb8716,26-35,Kids Zone,Social Media,1,0,"Too crowded on weekends, hard to move around.",Negative,2025-12-15
+fa044cb0-fe54-419b-be99-8d24527c9d2f,50+,Tech Innovations,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+f79ba505-9ff4-4959-8067-98b0ab8b2d91,36-50,Modern Art,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-14
+107b6be7-620a-4bf6-bb29-35da457bc83d,36-50,Tech Innovations,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+77c4f501-3143-4ad5-ab1d-96e17bedeadb,26-35,Modern Art,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+25acebee-a227-4647-9b65-83d83db18e22,26-35,Food & Culture,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-13
+4543ef36-5021-444f-84ea-707f3d8dd945,Under 18,Tech Innovations,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-12
+cfeb470b-4a58-47f0-9713-f80884e932cc,36-50,Kids Zone,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-08
+69f0e802-b807-4c99-8a15-cca662f11bd0,26-35,Food & Culture,Newspaper,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-05
+6028e291-ac88-4a5e-bff0-6fe5fc04d5ba,18-25,Modern Art,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-05
+fbf41501-cff7-4e8d-9bd7-fc84c58a32b7,36-50,Kids Zone,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-06
+3b52383b-d6f9-4d58-af0d-b62d560afd52,18-25,Tech Innovations,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-19
+d34a5240-1fd9-481c-8a05-f8707c9016d8,36-50,Modern Art,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-15
+67e2e6ce-3f7b-4a63-b78e-605e67ddd235,26-35,Photography,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+4d31797f-13e6-47a9-82e2-58872e5ac40d,36-50,Kids Zone,Newspaper,4,1,"Great experience overall, well organized.",Positive,2025-12-04
+860558bf-84be-46ca-a494-f6cd65ec4849,Under 18,Photography,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-13
+edb85dc2-ec26-46c6-8df0-f78224fb58d0,50+,Heritage Crafts,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-03
+182dee87-5582-45bf-a7c6-0304e9738744,18-25,Photography,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+ba0ecd49-8075-4117-9123-b53dac3b8d1f,26-35,Heritage Crafts,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-07
+a83d10a1-edb2-4fd0-8f3e-d67ba1f1b097,26-35,Heritage Crafts,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+9fb2a053-622d-4565-8926-92d158f29a28,36-50,Tech Innovations,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-21
+4d0d58d6-e2b2-41a0-adfd-bedfe6a002f3,26-35,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+f624cf91-470d-4200-b91d-3228a4ab5b75,36-50,Food & Culture,Social Media,3,0,"It was okay, nothing special.",Neutral,2025-12-12
+18232ed0-d6e0-4846-a1ad-1d2cd3c3d867,18-25,Photography,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
+a9963eeb-aea7-4762-b304-971d9587b36b,Under 18,Photography,Friends/Family,5,1,"Great experience overall, well organized.",Positive,2025-12-14
+c0e343e8-5a4f-4040-a84e-e8911b6989f3,18-25,Modern Art,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-10
+578ee5f8-4d3c-40d5-b192-a991c273959c,18-25,Photography,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-16
+5e87053f-303e-4e99-af7d-404b29f06590,26-35,Photography,Online Ads,4,1,Friendly staff and clean premises.,Positive,2025-12-19
+8e48f8b6-3fb5-4370-ba4e-91a29f3ab91a,Under 18,Tech Innovations,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-10
+477fae8f-af84-4026-b431-ef656d162829,50+,Heritage Crafts,Newspaper,3,0,"Some zones were good, others not so much.",Neutral,2025-12-04
+cd60b9ab-27a4-4239-99d7-5b6e90fe3eb5,18-25,Heritage Crafts,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-03
+13395804-bc34-4c8c-930a-6c4378214d90,36-50,Food & Culture,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-08
+822bd7b8-b44d-4242-8774-627b0a082373,Under 18,Tech Innovations,Social Media,4,0,Friendly staff and clean premises.,Positive,2025-12-15
+21bde2b0-7434-48b8-b8df-1509723335e9,50+,Tech Innovations,College/Work,3,0,"Some zones were good, others not so much.",Neutral,2025-12-21
+2bcda83f-461d-4327-8440-bf601b6d7fbd,50+,Photography,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-14
+5fdce06b-4490-4ed3-9e57-d85863ff0c90,18-25,Photography,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-18
+3dc32d79-e6fe-44c6-ba79-1c12cf1f81af,50+,Tech Innovations,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-08
+62df8090-2ca9-4bcc-b231-5945ef0fb16c,18-25,Kids Zone,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-12
+ecc1ed66-6c5f-4639-8508-c00848733228,18-25,Food & Culture,Newspaper,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+74af03cb-6592-41d9-a391-2ee6b386a3a9,18-25,Photography,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-15
+9eff84ac-f06d-42ec-ac21-572f7338b229,26-35,Modern Art,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-05
+b845c06f-4869-4bb0-b83d-2960629d2504,18-25,Kids Zone,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-18
+0e38e161-7556-44ab-91ea-15f815c2a6ba,18-25,Food & Culture,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-13
+6bdd8cf8-f267-49c5-bec8-916ebbf97cfd,26-35,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+1c6a818a-07fc-4992-baf8-7d60d619c84f,26-35,Heritage Crafts,Social Media,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-15
+72684036-f8ea-4f55-be9d-8e82735f5bd1,26-35,Heritage Crafts,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+39009da4-ec53-47c7-817c-908f75a2b01b,Under 18,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-16
+ca1fa39d-619f-4fd9-be57-e108dc3ea93f,26-35,Heritage Crafts,Online Ads,3,1,"Some zones were good, others not so much.",Neutral,2025-12-04
+a020e477-9192-4862-8ea3-f59971cfed4d,36-50,Photography,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+948b23ac-279d-470b-b54d-b5d597c4726c,Under 18,Heritage Crafts,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-21
+cb829201-f0b4-44d5-988c-8aa3bf1d769b,18-25,Photography,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-01
+804e2a82-d7a9-4cad-8675-db240df73dd5,26-35,Food & Culture,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-17
+4efe2ffe-1b30-4cdd-8e01-6764a6f61263,Under 18,Photography,College/Work,4,0,"Great experience overall, well organized.",Positive,2025-12-20
+dbd4acac-c08a-457b-b6fa-87caa96504f1,18-25,Tech Innovations,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-08
+e840c3ce-743c-49e8-aea4-5e092f80e042,50+,Tech Innovations,Online Ads,2,0,"Too crowded on weekends, hard to move around.",Negative,2025-12-09
+9be37086-d231-4bb0-9b52-602d46efef0d,Under 18,Modern Art,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-13
+bbd258ac-fe9c-44d9-a0b3-01798360321c,36-50,Heritage Crafts,Friends/Family,2,1,"Too crowded on weekends, hard to move around.",Negative,2025-12-10
+5e14c454-124f-47b6-a1d5-19be36a6a96c,Under 18,Kids Zone,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-05
+0ddca708-1de2-4861-95cc-2e04449602f0,36-50,Food & Culture,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+1525e4cc-716a-4a0c-8119-f297af7543fa,18-25,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-20
+b1b8b3b3-84e7-4259-9c88-48934e97de71,18-25,Kids Zone,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-17
+4f07924d-59f2-4ce6-a59e-70208df00c39,26-35,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-06
+c96eb982-376e-4063-bebc-b2d9805b5a73,36-50,Photography,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-19
+6210e4cf-0573-4818-829b-9e7aad596e16,50+,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-11
+34416cf2-bb36-43cc-a400-bb18c4d94172,36-50,Kids Zone,Online Ads,5,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+b7c3fe7e-e32a-403d-9040-938c940d5fc9,50+,Food & Culture,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-11
+10833e88-f9da-4b13-8cc4-d908f1a43f31,26-35,Kids Zone,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+12613274-e5db-40e7-8e5c-9c121886e18c,18-25,Food & Culture,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+d511acdf-2ef8-40bc-ad1c-45110ac8a028,18-25,Heritage Crafts,Newspaper,5,1,"Great experience overall, well organized.",Positive,2025-12-03
+56d35041-b70d-4ed4-ab7c-5c94ca1b2d42,50+,Modern Art,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-14
+3839020d-fb28-4b23-b8ad-a3ac4228cbb7,18-25,Tech Innovations,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-04
+d727aec5-32c9-451b-af19-c953419b1e7c,18-25,Modern Art,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-09
+53155bc9-d632-4cd1-b40c-df6ea56587db,18-25,Photography,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+3b9fba61-6d1f-4699-ba64-b5974b1a4420,36-50,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-04
+9096809e-82e8-4dee-b998-264293e098e1,50+,Photography,Friends/Family,4,0,Friendly staff and clean premises.,Positive,2025-12-03
+0bd6db8f-19ee-4a01-920b-48ba37b5854b,50+,Food & Culture,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+299763be-09ae-446e-8d90-7beb0f7bab99,50+,Photography,Social Media,3,0,"Some zones were good, others not so much.",Neutral,2025-12-13
+1a67d45d-9d96-42a2-be6a-7cae9d6ea810,18-25,Kids Zone,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-05
+606c3866-216b-4be9-b2fe-43cd7f21b0b1,Under 18,Tech Innovations,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-02
+0fde9441-85be-4399-ab20-6390ad12382d,50+,Heritage Crafts,Online Ads,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-04
+7dfe4ec6-2339-49cb-bd43-63b574291bbb,36-50,Photography,Online Ads,4,1,"Great experience overall, well organized.",Positive,2025-12-07
+a3ad5182-a1a1-4600-aa89-e66110032124,26-35,Kids Zone,Social Media,3,1,"It was okay, nothing special.",Neutral,2025-12-11
+0f23bbbe-d3e6-4683-803b-aa1c9f994df3,Under 18,Photography,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+242c2408-0ce8-4d52-90c5-b23a73e6981e,50+,Kids Zone,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-02
+e912ead9-ff40-4fa6-9d44-616e2e87ed0a,Under 18,Kids Zone,Friends/Family,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+7191ba89-04b5-46f7-841c-f1c046b77baf,18-25,Heritage Crafts,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-15
+1d4634d8-1d7c-417f-856c-4ae305dc2356,36-50,Heritage Crafts,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-04
+256ecd84-0fa1-485e-aae7-ee0c83d20c82,18-25,Heritage Crafts,Social Media,2,0,"Signage was confusing, hard to find zones.",Negative,2025-12-13
+10170a80-886d-4c0c-9817-be04df1d7fdf,26-35,Modern Art,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-09
+702d44f4-345d-4243-8d78-0f72d1fac8fb,Under 18,Food & Culture,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-17
+890e7668-ae0f-499b-a0aa-dafe1a402526,Under 18,Food & Culture,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+383d8c89-e823-46c5-ba49-020f2b337115,36-50,Photography,College/Work,4,0,Friendly staff and clean premises.,Positive,2025-12-15
+52688a9d-f8c7-4859-bd1a-5613f83695f5,50+,Food & Culture,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-17
+b1178b47-9dec-4183-8ec3-433658e0c9b9,18-25,Modern Art,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+3f81b620-50b5-4a03-a34f-b8df576e4ccb,36-50,Tech Innovations,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+d06bb17d-274b-4416-a365-220d619b08b3,26-35,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-01
+15487100-8579-4778-ada0-2eb1feeedc33,50+,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-05
+f37c563c-5328-42de-afea-379ae82224b7,26-35,Tech Innovations,Social Media,3,0,"Average experience, could be better.",Neutral,2025-12-12
+f2767115-d304-4d1c-b919-f2146b9a2ede,50+,Kids Zone,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-02
+189a774b-640e-4537-956b-b1a8021b5215,18-25,Kids Zone,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+4c00a60b-a6bb-482b-8362-2c840528b055,26-35,Heritage Crafts,College/Work,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-05
+5a4e0bca-2b2a-4fb4-a799-e57f31266aa8,26-35,Photography,Online Ads,3,1,"It was okay, nothing special.",Neutral,2025-12-12
+e76729f2-1833-48e0-be70-44228bbc85c4,18-25,Kids Zone,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+2efd72c9-b7e7-47d5-a4d7-e8070132668b,26-35,Tech Innovations,Newspaper,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+c12e20bb-9d2a-404b-a3fa-176db28344fd,18-25,Kids Zone,College/Work,3,0,"Average experience, could be better.",Neutral,2025-12-05
+c7d36562-e48e-46e1-a671-4ae6859a7902,Under 18,Modern Art,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-13
+1ecd9240-9750-4030-9e46-de4b94233b63,50+,Food & Culture,College/Work,3,0,"Average experience, could be better.",Neutral,2025-12-19
+0e624897-1cf8-4896-b041-2365b1e474ee,26-35,Heritage Crafts,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-19
+3f9c09a4-d96d-488e-ad59-bf577dee29f7,26-35,Kids Zone,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-03
+0687fad3-84e3-40e9-9098-bb08e9f363fe,26-35,Kids Zone,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-12
+446fcec9-032b-456c-9551-5894f8cff7cf,Under 18,Photography,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-06
+3c8db5e0-0a57-4ce5-8b9d-460fa56b1255,50+,Tech Innovations,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+e00dc189-7f26-4562-a174-ee103f4b07e6,Under 18,Modern Art,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-07
+29458caf-dd7c-41f0-a8da-8b2585fd342a,50+,Kids Zone,Newspaper,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-02
+a3a16401-9eed-4784-ae01-6e109a8af631,Under 18,Modern Art,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-19
+c1987362-6c46-4437-9f3f-403dbb434564,18-25,Tech Innovations,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-21
+e03439a2-2c7c-4046-9945-554d48d66372,26-35,Heritage Crafts,Online Ads,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+aa5057df-4b44-4532-b4fa-0adc6441ac8d,36-50,Photography,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-11
+20d11164-9c22-4247-b79d-820aaef1ce63,36-50,Modern Art,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
+b688d027-ebb3-48ce-81e9-e42cbd5ea84d,50+,Tech Innovations,Friends/Family,5,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-01
+752d6203-717d-4fae-bacf-1a9fcb40517e,50+,Heritage Crafts,Newspaper,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-14
+8d5489d3-c83e-4888-9529-7450bddc310c,26-35,Kids Zone,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-07
+55fe062b-85a4-4b66-b329-050fa4ee242e,Under 18,Modern Art,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+00285129-fbba-4a56-a22e-1e1a9c44bad9,50+,Kids Zone,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-20
+8a8e61f6-6140-4038-ac57-7bd91ae8314b,18-25,Kids Zone,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-16
+ba5d574f-5daf-4dff-958c-74e622c5598b,26-35,Heritage Crafts,Newspaper,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+db4b1f6a-bf81-4e53-86b0-c31dc1d02ddf,26-35,Kids Zone,Friends/Family,5,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-05
+98d2cb4f-e4a6-4d82-b48d-5d3d6d6ef46d,50+,Tech Innovations,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-12
+704a9f38-3aa3-4bb1-9b55-0360ec3d5355,18-25,Modern Art,Friends/Family,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-01
+dde9fa4c-9940-4023-9998-a2e6ea91757e,Under 18,Kids Zone,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-18
+fb11134d-ae5e-4b13-84e6-16936e8e7007,50+,Modern Art,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-06
+787b754d-42ac-4c26-a6e7-092cb626d1d0,50+,Photography,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-08
+09eb115a-d88e-4cb3-a349-c6801dd314dd,18-25,Food & Culture,Newspaper,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-13
+c52ca15f-58b4-4f8f-b064-1f0b97b2b98b,26-35,Food & Culture,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-01
+c33beac6-d3f0-437a-9cc3-051c5492083a,36-50,Heritage Crafts,Newspaper,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-08
+d701c13e-5016-407d-b0ff-e4d62e5f40c2,36-50,Kids Zone,Online Ads,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+bccceaca-9281-4c1a-b8c7-2b27627364f7,26-35,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-08
+50538978-1c7d-4f01-b0c7-4b45c73669f2,18-25,Modern Art,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-09
+6518893a-cf1e-47ae-83b6-3d7bd1f0c35b,18-25,Tech Innovations,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-16
+050dde1b-7f56-4a53-adee-e698a352e317,26-35,Tech Innovations,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-16
+79c5eac3-4ef6-4016-8aee-d7134ad87259,26-35,Modern Art,Newspaper,4,1,"Great experience overall, well organized.",Positive,2025-12-15
+46e1415f-f1a5-46b2-bfe9-76bb8c6ba53d,Under 18,Modern Art,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-12
+326f6fc9-a524-4e2b-992c-945ea9152d63,18-25,Heritage Crafts,Friends/Family,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+db6d40c5-e7c9-4a05-b8d4-a917f6b6c85c,Under 18,Photography,Social Media,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-05
+17e463ef-c9d2-4dc0-aeb4-dba8d95f261d,50+,Tech Innovations,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-06
+e550f20f-59d4-422d-b7eb-c88a49f678c8,36-50,Food & Culture,Social Media,2,1,Lighting in some zones was too dim.,Negative,2025-12-13
+fb3c1d2a-1712-48e7-bda4-70c4a56d819a,50+,Tech Innovations,Social Media,2,1,Photography section felt empty and poorly curated.,Negative,2025-12-01
+7fe94bcc-5847-492f-b20a-1a5b0a7dc5b7,50+,Heritage Crafts,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-04
+030241bd-6963-4412-82f7-4d99c68b75d9,Under 18,Photography,Online Ads,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+bef9088e-eed3-4a6b-a2c2-db9b1076173a,18-25,Heritage Crafts,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-08
+8c6cd18d-af8d-49cd-9d5a-ea101baa7974,18-25,Photography,Newspaper,5,1,Friendly staff and clean premises.,Positive,2025-12-04
+974c9a0a-5ab7-4dac-bbd3-13b23bee1d69,36-50,Kids Zone,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-07
+874899a5-e54a-46cc-bb07-0f51df2750a7,Under 18,Modern Art,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+61402403-a010-4458-a88c-95716d1891cf,Under 18,Tech Innovations,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-18
+114b5de5-784d-41d8-bb5a-a50562af939d,Under 18,Tech Innovations,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-15
+6f5d8c76-31bd-43f6-abfb-984c1bae1a24,50+,Kids Zone,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-09
+749751ab-fbcc-43d5-b4ce-0165e92a9fba,26-35,Food & Culture,Friends/Family,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+30a840fb-5491-403e-98e2-f13abce907ee,36-50,Food & Culture,College/Work,3,0,"Average experience, could be better.",Neutral,2025-12-21
+bc7cc90c-c0d6-4c94-8c44-9d74a6200105,50+,Heritage Crafts,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-20
+c96373c6-d9e4-4dee-819b-7a303a7d49e0,18-25,Photography,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+053af834-3f86-4ba6-9b78-e3b9afa5f001,Under 18,Kids Zone,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-21
+882598fe-18e1-46ca-91e2-159e7970bb0f,26-35,Food & Culture,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-16
+3e2ae59a-2481-4b05-b458-ae7e6a8d183b,36-50,Photography,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+05025428-571b-4344-b08a-d7bcfb4458ed,36-50,Modern Art,Friends/Family,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-17
+f42da753-4778-4b27-a4f0-e6912721e96c,26-35,Tech Innovations,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-08
+b39321cc-ff49-4555-b23c-97e4b1a59c24,26-35,Kids Zone,Online Ads,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+d64cbc07-e0d5-4ef0-93be-ef86cf4280cf,36-50,Kids Zone,Friends/Family,3,0,"Some zones were good, others not so much.",Neutral,2025-12-03
+231c4a36-e6b0-4180-838b-6dfeb58cd7d4,50+,Kids Zone,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+0c784b02-c9cc-4f79-8d66-2f15fe1e7f1e,18-25,Modern Art,Social Media,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-06
+22063ed9-fc03-4491-b589-1d1e099b62fc,Under 18,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-14
+33bf6d2c-1293-4b83-8f8c-fdad33fb417b,18-25,Heritage Crafts,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-12
+96df9f74-2563-41e7-af13-4949d9415434,50+,Tech Innovations,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-03
+04c1eafb-40f2-4c27-9709-708ae482012d,26-35,Tech Innovations,Online Ads,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-15
+c477a681-6321-4c21-9d58-f9a0ca0179a6,18-25,Photography,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+b24b1df8-6f00-42a7-95b9-e7c1c6415ec1,50+,Tech Innovations,Newspaper,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-17
+0280c4b0-ebb4-476a-97e1-92a00910773a,26-35,Tech Innovations,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-19
+1c460dd2-889c-41bd-bfce-f2a60979470d,50+,Tech Innovations,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-09
+06db466b-0903-48cb-9c30-5c32ad2985b6,18-25,Tech Innovations,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+d2d8ca28-6a72-4d16-98f0-dd9aacfcd5d2,Under 18,Photography,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-10
+d06f6256-8b51-41ec-a004-4c3816391a61,Under 18,Kids Zone,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-02
+99f16b10-3c8d-408e-9da4-783d6cbb2d51,36-50,Photography,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-09
+01cb1681-1e5b-492b-b534-5fc567b018e1,36-50,Tech Innovations,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-20
+199c8073-75e1-4d24-a3ea-4a6a5bc840cd,50+,Modern Art,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+7d6c8a07-9e62-47a6-94cc-b50279b6e15f,36-50,Heritage Crafts,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+ba370661-f8c5-47d8-8afc-c0530583afef,Under 18,Photography,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-15
+99839136-a15b-40d4-bfad-fb98c6f22034,36-50,Photography,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-03
+89255168-f217-480a-b2a4-a33246229a0c,36-50,Food & Culture,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-01
+050eb1a2-baef-4dd7-9354-9dd1b84ec8f0,18-25,Photography,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+c759cf8d-c19a-4c2c-801b-922a923c4c49,36-50,Kids Zone,College/Work,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+f8574741-62f5-4e7b-8d89-ce6882e91ef7,Under 18,Heritage Crafts,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-07
+3bbca006-92d3-44c6-8a25-af320b6a7af0,Under 18,Kids Zone,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+0f7889bf-52d0-4072-a258-c0628a7ba614,50+,Food & Culture,Newspaper,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-19
+7ea07a1d-1078-41a4-aa40-715d42f25813,Under 18,Modern Art,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+01151029-a1cf-4d10-a433-b50c20e7df8b,Under 18,Modern Art,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-17
+9f06120b-94d9-43b8-9799-f2ef6b33659d,26-35,Tech Innovations,Friends/Family,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-10
+b1127c7d-41fd-4773-9bc7-aecfb03eaa18,50+,Kids Zone,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-10
+ff635c6f-738e-46f2-9937-197088b5601d,36-50,Tech Innovations,College/Work,4,0,"Great experience overall, well organized.",Positive,2025-12-09
+235aaf94-6490-4729-b82f-84bc6e3ed919,18-25,Tech Innovations,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-12
+74a993cd-00ac-487b-964e-1b7e31e42579,36-50,Food & Culture,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+43379ed1-d7f0-4c69-9c0d-d286fec83280,50+,Modern Art,Newspaper,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-01
+79be396f-d5cc-4425-85b3-12a4f4c5ee7c,36-50,Kids Zone,Online Ads,3,0,"It was okay, nothing special.",Neutral,2025-12-02
+12d14478-0664-4590-9a66-485aa254840b,36-50,Tech Innovations,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-19
+314332c0-fb56-4035-ac13-adf55a49b78a,36-50,Kids Zone,Online Ads,2,1,Long queues at food stalls.,Negative,2025-12-07
+e4f89e40-fcd7-40dd-a797-7fd013189165,36-50,Heritage Crafts,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-05
+83cbdf4e-739e-432e-adfa-4e8aff680312,36-50,Heritage Crafts,Social Media,3,0,"Some zones were good, others not so much.",Neutral,2025-12-18
+ce700c5c-2029-4ef9-ad96-1359a6957c0b,36-50,Photography,Social Media,5,1,"Great experience overall, well organized.",Positive,2025-12-10
+ea74271e-cdb0-4c6c-95af-44c83c969a4e,18-25,Modern Art,Social Media,4,0,Friendly staff and clean premises.,Positive,2025-12-07
+33f5a249-08e5-41a7-bb32-998127762d87,36-50,Kids Zone,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-02
+be3022ff-da36-427d-8829-9843886d5166,26-35,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-14
+919ab3be-c90b-4610-9404-413ad9d577df,18-25,Modern Art,Social Media,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-10
+e380b444-5fb0-4799-874f-363c0a692251,26-35,Modern Art,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-10
+102f20a6-adf8-413f-8ded-5b67bbd04752,50+,Tech Innovations,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-08
+e3f0de2e-49b7-4fa9-9d23-0da7b63d76d7,26-35,Food & Culture,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-08
+e7074dbf-f681-4c86-994a-dba6bcd33e0e,Under 18,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-06
+01466046-6433-4a22-9a41-b50f74cc5f03,36-50,Food & Culture,Social Media,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-04
+37b1d979-5bff-416e-8429-c64906dc72fa,50+,Photography,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+66d171f7-152f-4b32-8490-ee4ab47ec198,Under 18,Heritage Crafts,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-10
+c449c57a-68b7-47d8-af1e-1b04df74a7d9,50+,Kids Zone,College/Work,4,1,Friendly staff and clean premises.,Positive,2025-12-16
+6cae3e5a-0514-4a1e-8847-a576fa44d105,50+,Tech Innovations,Online Ads,2,1,"Too crowded on weekends, hard to move around.",Negative,2025-12-20
+e3ae22bc-1d48-43a7-9b93-2163858a4064,26-35,Heritage Crafts,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-10
+2c4d6652-294a-474b-aa32-eaceeba69c7b,26-35,Heritage Crafts,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-11
+a77bcc3f-1c0d-451c-8bad-54e045cdc010,18-25,Photography,Social Media,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-03
+2d9882ef-6360-40a4-ad05-a234e3ef3f85,36-50,Photography,Social Media,4,1,Friendly staff and clean premises.,Positive,2025-12-06
+79b49117-1e4d-4c71-a9a6-f424d29bd94d,36-50,Kids Zone,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-19
+e2a086d3-c745-4e64-84a6-14047fc5b50f,18-25,Heritage Crafts,Friends/Family,3,0,"Average experience, could be better.",Neutral,2025-12-03
+58a0766c-e533-4ba3-91b8-f866b690220d,18-25,Tech Innovations,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-03
+e96f211a-f940-4ec9-b89f-ff0203036af6,36-50,Tech Innovations,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-04
+fd3e7fa3-4110-4848-bbcd-cd407a150cc1,18-25,Modern Art,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-04
+3179f3e9-f4d9-443a-a2e5-39e815a3d2da,18-25,Tech Innovations,Social Media,1,1,Long queues at food stalls.,Negative,2025-12-17
+2558ed75-be40-4ad1-8faa-1c9e5350659b,18-25,Tech Innovations,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-05
+8fc0a172-d0f0-4d3d-9d7a-e81d3e08392f,50+,Modern Art,Friends/Family,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-01
+23c14d24-9856-4742-ba19-f55cbcb592d7,36-50,Heritage Crafts,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-07
+86a386d7-0f2a-42be-847d-4393cbc57567,18-25,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-09
+f28f39a3-caf4-401c-b196-e4dc54f941b8,36-50,Heritage Crafts,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-19
+ad7a710e-a4f8-439d-8bcd-4828af911be3,50+,Heritage Crafts,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-17
+fa09ae75-b4ea-45ff-95df-2b4f2be16cbb,18-25,Photography,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-04
+8e3bce63-e0bb-4fb6-965b-b225651ec24c,50+,Heritage Crafts,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-10
+71738d1b-7b25-4751-96e0-b8681b2d6277,36-50,Tech Innovations,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-11
+9765fd1c-3f22-4dc9-8beb-5cb3025046dc,Under 18,Food & Culture,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-17
+a4252dae-e5d8-4923-b187-eb0957f894ab,18-25,Photography,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-07
+849def60-0c78-4b4c-9b08-ae0e1623bb66,26-35,Modern Art,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-01
+d9041e99-d5f6-47a7-b07c-dfd22bab99a5,36-50,Food & Culture,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+160c85bc-c717-4a5e-926a-da4178aa46cc,Under 18,Kids Zone,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-12
+f841adb6-f9d8-4fb1-9e80-3374a2d5a57d,26-35,Food & Culture,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+235a1f12-2331-4b66-9431-91e21ded523f,36-50,Photography,Social Media,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-10
+a3b46afb-88a7-4884-b1a3-1a887ca48a13,36-50,Heritage Crafts,College/Work,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-19
+c4d275fb-108f-4aeb-b956-ed9f6dc67f58,36-50,Modern Art,College/Work,2,1,Long queues at food stalls.,Negative,2025-12-17
+43febd89-0e6c-48f8-86de-4baab92608fc,50+,Tech Innovations,Friends/Family,5,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-04
+d9985149-49a8-4381-8ca4-b1926952934a,18-25,Heritage Crafts,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-18
+6dcea449-4fc3-4544-8eaa-616c93c0c6fe,50+,Modern Art,Online Ads,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-02
+015be22d-a9c7-46fd-b869-e0a79faaa7a5,36-50,Food & Culture,College/Work,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+b1c9bba1-4bc2-4c49-9258-90b31883ac0a,Under 18,Food & Culture,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-11
+90dcb1d1-877d-4a06-b587-75b7f23bc21c,36-50,Photography,College/Work,5,1,Friendly staff and clean premises.,Positive,2025-12-16
+9277f017-12a7-4aaf-983f-0214b7482cdf,Under 18,Kids Zone,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-14
+7615990c-115c-4098-828a-f248854aa405,36-50,Kids Zone,Social Media,3,1,"Average experience, could be better.",Neutral,2025-12-03
+a9b6cf59-b1fa-4626-8293-a6a71427ed1d,36-50,Tech Innovations,Newspaper,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+efe6c384-30d8-4d26-b62c-059c473bc765,36-50,Tech Innovations,Friends/Family,5,1,"Great experience overall, well organized.",Positive,2025-12-08
+35654fdb-5198-4cc3-a994-7c0ce4fe0db2,Under 18,Heritage Crafts,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-13
+da29b531-75b2-4d75-84de-1b4829a6f1bc,18-25,Tech Innovations,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+d8d622f8-4262-4f33-b10e-f6b56113d7e5,36-50,Food & Culture,Social Media,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-20
+58a9ca99-a344-4e9e-b87d-6f7ef38419dd,36-50,Modern Art,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-06
+a45ecb4c-b0c7-4c46-a51b-19ee0f016640,36-50,Heritage Crafts,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-12
+f41381e4-12c5-4801-8bb0-77ed6decfe63,50+,Photography,College/Work,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-13
+d5302b50-f311-4049-8959-87cb06074f91,36-50,Modern Art,Social Media,2,1,"Signage was confusing, hard to find zones.",Negative,2025-12-15
+b1e1460d-9df4-4f61-b244-052575a65064,26-35,Tech Innovations,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-13
+20aa0537-751a-4445-9064-410850996d31,Under 18,Kids Zone,Online Ads,2,1,Lighting in some zones was too dim.,Negative,2025-12-12
+da983f63-33f4-4505-92e8-1ef25b194954,Under 18,Photography,College/Work,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-04
+73f2fc40-1713-4188-960d-6ece7c3647df,36-50,Kids Zone,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-05
+cfd69747-0d6b-4bb2-a50e-c3de15760f27,36-50,Photography,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-05
+b3425163-bb07-46ec-89e7-a0631fb2014a,18-25,Heritage Crafts,Social Media,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+2e5d4434-0672-4e9f-ada2-ef91def9f9cb,18-25,Heritage Crafts,College/Work,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-09
+017e3a71-d793-4571-aefb-1e8388adab84,26-35,Photography,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-18
+11c4a231-f5c2-40f2-9470-ae28b409fb86,Under 18,Food & Culture,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-13
+85c6c313-ab2c-49a4-b942-4e51901d9818,26-35,Food & Culture,Newspaper,3,1,"Some zones were good, others not so much.",Neutral,2025-12-06
+6e902674-ed27-4789-b9e8-25a17f4c54ef,Under 18,Kids Zone,College/Work,2,1,Long queues at food stalls.,Negative,2025-12-05
+9f431e81-646e-46a1-bc05-35cbd051b991,Under 18,Modern Art,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-06
+d6897584-96b5-4517-a675-fd9988ea5be2,Under 18,Photography,Friends/Family,3,0,"Average experience, could be better.",Neutral,2025-12-12
+1db2608c-5c2b-4bc1-b539-419d93f208b3,26-35,Photography,Social Media,5,0,"Great experience overall, well organized.",Positive,2025-12-07
+bc40c3c3-4896-4e27-95a4-4bb1b98d7083,36-50,Kids Zone,Friends/Family,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-12
+015c7f4d-a153-44c5-ab8e-798aabbe9c92,36-50,Food & Culture,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-04
+726c8731-7fe9-4123-a6f7-166b21246f62,36-50,Modern Art,Friends/Family,4,1,Friendly staff and clean premises.,Positive,2025-12-06
+321a453a-b63f-4e51-b10d-d3bcaf51477b,18-25,Tech Innovations,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-18
+9b4b76ff-a124-4598-8297-be53defca6af,Under 18,Photography,Social Media,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-13
+e3c25f50-3f7f-4baa-8fc3-c1fc708c6089,Under 18,Kids Zone,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-02
+4e85177e-8e6c-4f2b-8f42-1059cbddd397,50+,Kids Zone,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+ccb41eb0-3cf2-4b90-b215-c27086a687f1,Under 18,Tech Innovations,College/Work,5,1,"Great experience overall, well organized.",Positive,2025-12-20
+f0bd40ee-de6d-4075-acf6-a73ecf2167e9,Under 18,Photography,Online Ads,3,1,"Average experience, could be better.",Neutral,2025-12-06
+ed63927f-eca4-4d8b-9a3a-75c0bb33a1cc,Under 18,Photography,College/Work,2,1,Lighting in some zones was too dim.,Negative,2025-12-11
+cdef031e-6b2b-4bc7-b29f-44b86ac302c3,36-50,Food & Culture,College/Work,3,1,"Average experience, could be better.",Neutral,2025-12-06
+64e8d3fa-2318-42b3-9f2a-c2ef3994fca9,50+,Photography,College/Work,4,1,"Great experience overall, well organized.",Positive,2025-12-10
+eaa60f0d-793f-4302-9f6d-8739f8e183de,26-35,Modern Art,Newspaper,5,0,"Great experience overall, well organized.",Positive,2025-12-03
+20853dde-fb28-462c-845f-1588e42897e5,50+,Kids Zone,Newspaper,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-13
+954aff86-a0e4-433b-b7ec-05e3aaee2ec1,26-35,Modern Art,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-05
+5bb46002-5eb9-4df5-bfc2-69e75d3a9b0e,18-25,Modern Art,Friends/Family,5,0,"Great experience overall, well organized.",Positive,2025-12-02
+2a2b79e3-8ad2-46cd-a2ad-7e0e05ccdfe8,36-50,Photography,College/Work,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-13
+d97a4bf5-d042-4230-b940-0f12a5c66909,Under 18,Kids Zone,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-17
+c0ef6406-478b-439c-9af4-2ab40e70c620,18-25,Tech Innovations,Online Ads,3,1,"Some zones were good, others not so much.",Neutral,2025-12-12
+5c684e46-050b-4bff-8d6b-ffec7169b53f,Under 18,Photography,Friends/Family,3,1,"Some zones were good, others not so much.",Neutral,2025-12-03
+a0655647-1f78-4f66-bc1c-c6ec8d48799c,18-25,Heritage Crafts,Social Media,5,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-05
+ec25fb2d-4f70-4825-ba31-5465e5f711fe,50+,Food & Culture,Social Media,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-18
+61a17536-c679-41fa-8c19-455202649046,Under 18,Kids Zone,Friends/Family,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-16
+6c184a1c-8503-42a0-a140-309f79eff964,26-35,Modern Art,Online Ads,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-08
+f25f2663-ab03-4064-a0f4-ecc17cdd9a08,18-25,Modern Art,Social Media,5,0,Friendly staff and clean premises.,Positive,2025-12-19
+fb3053cd-c5ec-4766-9f53-2b03d5f7c19b,Under 18,Kids Zone,Social Media,3,1,"Some zones were good, others not so much.",Neutral,2025-12-17
+14b8ec63-0565-4498-a03f-5cc9ed36bec2,26-35,Tech Innovations,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-03
+f0f2847d-4277-4d63-b5a3-04e5b02dbfe5,36-50,Kids Zone,Friends/Family,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-14
+e1a9d56c-b0b5-4fdc-9044-6a3209f47f98,Under 18,Modern Art,College/Work,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-11
+05c1416d-69f3-43ab-ac26-2245564b240c,Under 18,Photography,Newspaper,3,1,"Average experience, could be better.",Neutral,2025-12-14
+6c2a75d5-1985-4500-bd3f-5ef0a4f08498,50+,Food & Culture,Friends/Family,5,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-07
+da676ac6-cbbd-48a9-b1f5-59c39f38b978,18-25,Heritage Crafts,Social Media,5,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-17
+6be15541-ef25-4e58-85e3-a85b8e541ea7,18-25,Heritage Crafts,College/Work,4,1,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-09
+a8b9398b-982c-445b-8e1b-618cf9ab0159,26-35,Modern Art,College/Work,3,0,"Some zones were good, others not so much.",Neutral,2025-12-20
+26e7ab31-121e-4674-ae47-76da843b84a6,Under 18,Photography,Friends/Family,3,1,"It was okay, nothing special.",Neutral,2025-12-21
+1152f096-c41b-4e1a-a7c4-a6ec883acc51,50+,Photography,Social Media,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-06
+ded5121f-a237-4dc6-b551-93e12f12e696,26-35,Kids Zone,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-02
+dfcb6da7-8975-44a9-a11f-e055255b4ecb,26-35,Photography,Friends/Family,4,1,"Great experience overall, well organized.",Positive,2025-12-15
+79481d07-d42a-44b3-b2df-75b6f6dbc433,Under 18,Heritage Crafts,College/Work,4,1,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-16
+14e410bc-306b-455b-bf50-f562327d148d,26-35,Food & Culture,College/Work,3,1,"It was okay, nothing special.",Neutral,2025-12-05
+22c406fe-186a-4000-9421-7064bc80e375,50+,Heritage Crafts,Social Media,5,1,Friendly staff and clean premises.,Positive,2025-12-12
+a1016a4b-cb02-4c94-8d17-797db93a6300,Under 18,Tech Innovations,Online Ads,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-09
+15d27456-5e9f-45de-84b3-fc9da132a347,36-50,Kids Zone,Social Media,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-14
+cacd77eb-f435-4ca5-a91b-b6d9e2201c49,Under 18,Modern Art,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-18
+3317f685-d50c-4cdd-a6de-37dfac1153e1,Under 18,Food & Culture,College/Work,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+438d6c3d-4422-45f5-bc30-2eabfb250a46,18-25,Food & Culture,College/Work,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-03
+66c0524e-f1d1-4dc6-889f-a06e6b3d5ea4,50+,Tech Innovations,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-21
+75fcfc5b-5e59-4c08-ae6b-c7b3fecf6010,18-25,Modern Art,Social Media,5,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-04
+8ad791bb-cd6d-4ec9-9395-da9ba5c50085,18-25,Heritage Crafts,Online Ads,4,1,Friendly staff and clean premises.,Positive,2025-12-19
+b47f99f6-65f8-4b7c-8c34-a591599a6a99,36-50,Kids Zone,College/Work,3,1,"Some zones were good, others not so much.",Neutral,2025-12-02
+18cde9ed-374c-42d8-9f83-b0f1b26ffb02,36-50,Food & Culture,Newspaper,3,0,"It was okay, nothing special.",Neutral,2025-12-08
+6ea4b117-d762-4d56-8d4a-5ce4570c0145,36-50,Photography,Newspaper,4,1,"Tech zone was impressive, learned a lot.",Positive,2025-12-05
+08912e27-11b4-4373-bfdf-e1eb54cf85a5,50+,Heritage Crafts,Friends/Family,3,1,"Average experience, could be better.",Neutral,2025-12-08
+3ca954c6-39ec-45a3-9a29-c800fda35e56,50+,Heritage Crafts,College/Work,4,0,"Kids enjoyed it a lot, good activities for children.",Positive,2025-12-21
+cc69a0bc-1982-4a90-b0f3-3b82fbd2da9d,Under 18,Photography,Social Media,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-07
+969f6fde-52c6-4770-ac51-7b62c6a548fb,36-50,Heritage Crafts,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-08
+f2656107-540e-4d65-9ad2-f13a949d90ee,50+,Photography,Newspaper,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-09
+e2a1fd63-58fe-408a-888d-2ef4a73d8c02,36-50,Heritage Crafts,Social Media,4,1,"Great experience overall, well organized.",Positive,2025-12-04
+cd7ae0fa-27bf-4943-b881-596ec1dce4fd,18-25,Photography,Social Media,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
+03f86a8e-c0fa-4964-b643-c957e2daf36d,Under 18,Kids Zone,Friends/Family,4,0,"The heritage crafts zone was amazing, very informative.",Positive,2025-12-13
+624e6fd3-7ff1-404a-b76d-b6629e5cd520,Under 18,Heritage Crafts,Friends/Family,4,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-17
+50196b62-2547-439b-935f-89d073c5de5f,50+,Kids Zone,Friends/Family,5,1,Friendly staff and clean premises.,Positive,2025-12-03
+cb14bb61-2962-408e-b807-76c0bcb49d57,50+,Photography,Newspaper,4,1,"Loved the variety of stalls, especially the food section!",Positive,2025-12-01
+102c8691-a2a9-425e-a7ac-d4d3b76f3de2,18-25,Kids Zone,Social Media,4,0,"Tech zone was impressive, learned a lot.",Positive,2025-12-15
+3c41e5c9-4bb9-4bea-9330-9be7ee9e2316,18-25,Modern Art,Newspaper,5,0,"Loved the variety of stalls, especially the food section!",Positive,2025-12-20
